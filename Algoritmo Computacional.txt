@@ -1,0 +1,24 @@
+Passo 1: Criar as variaveis
+Passo 2: Exibir a mensagem "Digite o nome do funcionário: "
+Passo 3: Ler a variavel nome
+Passo 4: Exibir a mensagem "Digite a idade do funcionário: "
+Passo 5: Ler a variavel idade
+Passo 6: Exibir a mensagem "Digite estado civil do funcionário: "
+Passo 7: Ler a variavel estadocivil
+Passo 8: Exibir a mensagem "Digite a quantidade de filhos do funcionário: "
+Passo 9: Ler a variavel filhos
+Passo 10: Exibir a mensagem "Digite quantos anos de empresa o funcionário tem: "
+Passo 11: Ler a variavel tempo
+Passo 12: Exibir a mensagem "Digite qual o salário do funcionário: "
+Passo 13: Ler a variavel salario
+Passo 14: Exibir a mensagem "Informações do funcionário:"
+Passo 15: Exibir o nome do funcionário
+Passo 16: Se o funcionario tiver mais de 60 anos, exibir a mensagem "Apresentar plano de aposentadoria para o funcionario",
+	    senão, exibir a mensagem "Sem plano de aposentadoria para o funcionário"
+Passo 17: Exibir o estado civil do funcionario
+Passo 18: Se o funcionario não tiver filhos, exibir a mensagem "Funcionário sem direito ao Auxilio Familia", senão, exibir
+	    "Funcionário com direito ao Auxilio Familia"
+Passo 19: Se o funcionário tiver mais de 5 anos na empresa, exibir a mensagem "O funcionário tem direito ao abono salarial",
+	    senão, exibir "Funcionário sem direito ao abono salarial"
+Passo 20: Se o funcionario ganhar um salário maior do que 4300 reais, exibir a mensagem "Funcionário COM direito ao Seguro de Vida
+	    e Seguro Saúde", senão, exibir "Funcionário SEM direito ao Seguro de Vida e Seguro Saúde"
